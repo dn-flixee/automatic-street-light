@@ -7,6 +7,6 @@
 
 ## Working
 
-```the system works in accordance with the varying sunlight. Whenever there is sufficient sunlight in surroundings, LDR exhibits high resistance and acts as an insulator, while in darkness LDR behaves as low resistance path and allows the flows of electricity,LDR’s operates with the help of IR sensors, these sensors are activated under low light conditions and are controlled by an AT89C51 micro controller(Arduino UNOR3) , every basic electronic circuit will operate under regulated 5v DC.```
+```the system works in accordance with the varying sunlight. Whenever there is sufficient sunlight in surroundings, LDR exhibits high resistance and acts as an insulator, while in darkness LDR behaves as low resistance path and allows the flows of electricity,LDR’s operates with the help of IR sensors, these sensors are activated under low light conditions and are controlled by an AT89C51 micro controller(Arduino UNOR3) , every basic electronic circuit will operate under regulated 5v DC. the system has three street lights connected to each IR sensors, two lights will turn on when vehicle movement is detected and one light is always on , for the safety purpose. ```
 ```When any vehicle is detected by IR, all the three street lights glow otherwise only one street light remains on, this is done so to provide visibilty to the drivers and to maintain road safety.```
 
